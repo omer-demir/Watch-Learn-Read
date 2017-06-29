@@ -8,3 +8,11 @@
 **Books**
 - [ ] Dependency Injection in .NET
 - [ ] Growing Object-Oriented Software Guided by Tests
+
+
+**Technologies**
+- [ ] http://blueprintjs.com/
+- [ ] https://jamstack.org
+- [ ] https://middlemanapp.com/
+- [ ] https://www.netlify.com/
+
