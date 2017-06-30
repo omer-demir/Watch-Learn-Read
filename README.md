@@ -4,7 +4,7 @@
 - [ ] Stuck in Love 
 - [ ] The Spectacular Now
 - [ ] The Way Way Back
-- [X] Her*(Again)*
+- [X] Her *(Again)*
 
 **Books**
 - [ ] Dependency Injection in .NET
