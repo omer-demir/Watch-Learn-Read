@@ -15,4 +15,9 @@
 - [ ] https://jamstack.org
 - [ ] https://middlemanapp.com/
 - [ ] https://www.netlify.com/
+- [ ] http://proto.actor/docs/actors
+- [ ] https://github.com/dotnet-architecture/eShopOnContainers
+- [ ] https://github.com/gothinkster/realworld
+- [ ] http://proto.actor/docs/actors
+- [ ] http://proto.actor/docs/actors
 
