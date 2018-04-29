@@ -5,6 +5,24 @@
 - [ ] The Spectacular Now
 - [ ] The Way Way Back
 - [X] Her *(Again)*
+- [X] Me and Earl and Dying girl
+- [X] Lars and the real giurl
+- [X] Moonrise kingdom
+- [X] mary and max
+- [ ] the fall
+- [ ] juno
+- [X] garden state
+- [X] frances ha
+- [ ] submarine
+- [X] lovely bones
+- [ ] edge of seventeen
+- [ ] bling ring
+- [ ] snowpiercer
+- [ ] invitation
+- [ ] babadook
+- [ ] get out
+- [X] detachment
+
 
 **Books**
 - [ ] Dependency Injection in .NET
